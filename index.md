@@ -9,11 +9,11 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
+#Aidan Kinnisten's First CS193 Homework
 
-# Test1
-## Header 2
-### Header 3
+- The TA's
+- Learning new tools!
+- How it's not too stressful of a class
 
 - Bulleted
 - List
