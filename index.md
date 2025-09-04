@@ -10,7 +10,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ```markdown
 
-- The TA's
+- The TA's and professors
 - Learning new tools!
 - How it's not too stressful of a class
 
